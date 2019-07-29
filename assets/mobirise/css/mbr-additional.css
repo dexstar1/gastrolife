@@ -9,7 +9,7 @@ body {
   font-style: normal;
   line-height: 1.5;
 }
-.step-container .white p {
+.step-container.white p {
     color: white !important;
 }
 .mbr-section-title {
